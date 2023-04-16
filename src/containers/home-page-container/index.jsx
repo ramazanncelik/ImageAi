@@ -11,7 +11,7 @@ const HomePageContainer = () => {
                 You just imagine,<br /> we handle the rest
             </h1>
             <p className={styles.description}>
-                Tell us a prompt and we'll generate a story for you.
+                Tell us a prompt and we&apos;ll generate a story for you.
             </p>
             <PromptForm />
             <ResultImage />
